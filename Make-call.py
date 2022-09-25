@@ -3,7 +3,7 @@
 import os
 from twilio.rest import Client
 
-#neter your account_sid and auth_token
+#Enter your  twilio account_sid and auth_token
 
 account_sid = os.environ['enter here your account sid']
 auth_token = os.environ['enter here your auth token no.']
