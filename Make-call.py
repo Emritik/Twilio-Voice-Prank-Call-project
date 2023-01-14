@@ -14,8 +14,6 @@ auth_token = os.environ['enter here your Auth Token : ']
 client = Client(account_sid, auth_token)
 
 
-
-
 call = client.calls.create(
                         url='http://demo.twilio.com/docs/voice.xml',
                         to='XXXXXXXXX',      #Enter your friend's number in "to" section.
