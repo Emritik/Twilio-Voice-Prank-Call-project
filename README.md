@@ -6,7 +6,6 @@ This repository contains a template for the project. Keep reading to learn about
 # Quick Summary
 
 - Use this template to start building your own whatsapp notification system.
-
 - You will be needed a twilio account to get this project running.
 
 # Setting up the project:
