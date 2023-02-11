@@ -1,7 +1,6 @@
 # Twilio-Voice-Prank-Call-project
 
 Basically this project is based on rest api's explains the how api's work.
-
 This repository contains a template for the project. Keep reading to learn about how the project works, what you should do to get the project running on your system.
 
 # Quick Summary:
