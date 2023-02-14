@@ -14,7 +14,7 @@ client = Client(account_sid, auth_token)
 
 call = client.calls.create(
                         url='http://demo.twilio.com/docs/voice.xml',
-                        to='XXXXXXXXX',      #Enter your friend's number in "to" section.
+                        to='XXXXXXXXX',         #Enter your friend's number in "to" section.
                         from_='+91XXXXXXXXXX'   #Enter your twilio number ( which bought from Twilio console ) in "from_" section.
                         )
 
